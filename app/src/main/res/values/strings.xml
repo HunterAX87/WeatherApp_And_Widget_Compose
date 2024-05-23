@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginCompose</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="greetings_title">Greetings screen</string>
+    <string name="weather_title">Weather</string>
+    <string name="sign_in_action">Sign in</string>
+    <string name="item_login">Login</string>
+    <string name="item_password">Password</string>
+    <string name="sign_up_action">Sign up</string>
+    <string name="item_confirm_password">Confirm password</string>
+    <string name="authentication">Authentication</string>
+    <string name="registration">Registration</string>
+    <string name="update_weather_by_current_place">Update weather by the current position</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="enter_city">Enter the city</string>
+    <string name="update_weather_by_city">Update weather by the enterd city</string>
+    <string name="exit">Exit</string>
+</resources>
